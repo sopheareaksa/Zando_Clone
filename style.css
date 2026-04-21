@@ -117,6 +117,7 @@ input {
 .poster {
   min-width: 100%;
   scroll-snap-align: center;
+  animation: slideShow 20s infinite;
 }
 .big-banner img {
   width: 100%;
